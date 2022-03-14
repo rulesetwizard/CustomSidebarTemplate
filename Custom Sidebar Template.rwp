@@ -25,7 +25,7 @@
     <Announcement3 />
     <Announcement3Font />
     <Announcement3Icon />
-    <ExcludeRSWScripts>false</ExcludeRSWScripts>
+    <ExcludeRSWScripts>true</ExcludeRSWScripts>
     <CompileToFolder>false</CompileToFolder>
     <DefaultEncoding>iso-8859-1</DefaultEncoding>
   </RulesetProperties>
